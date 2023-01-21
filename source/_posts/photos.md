@@ -1,0 +1,98 @@
+---
+title: photos
+date: 2022-1-20 20:52:28
+cover: assets/20221217110753.jpg
+sticky: true
+tags: “个人所好”
+---
+
+<h1 align="center">谷阿玛尼的photos</h1>
+
+<img src="https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-41-22.png" style="zoom:33%;" />
+
+<h2 align="center">以下照片存储腾讯云cos中</h2>
+
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-15-15.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-17-51.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-18-16.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-18-43.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-18-53.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-20-48.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-21-13.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-21-46.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-21-58.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-22-32.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-24-49.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-25-02.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-25-43.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-25-52.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-26-03.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-26-08.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-26-20.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-26-33.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-27-41.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-27-55.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-28-01.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-28-08.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-28-16.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-28-23.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-28-29.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-28-35.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-28-43.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-28-48.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-28-55.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-29-08.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-30-02.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-30-07.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-30-19.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-30-47.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-31-17.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-31-26.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-31-39.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-32-19.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-32-34.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-32-46.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-32-56.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-33-26.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-33-37.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-33-54.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-34-24.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-34-36.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-34-54.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-35-04.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-35-19.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-35-36.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-35-48.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-35-58.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-36-45.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-37-08.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-38-19.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-39-32.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-39-51.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-40-15.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-40-29.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-40-39.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-40-57.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-41-56.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-42-10.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-42-24.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-42-47.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-43-26.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-43-37.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-43-50.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-44-13.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-44-27.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-44-41.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-44-51.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-45-02.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-47-02.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-48-01.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-48-25.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-48-37.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-50-06.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-50-24.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-50-44.png)
+![](https://images-1316609369.cos.ap-guangzhou.myqcloud.com/Snipaste_2023-01-20_14-50-59.png) {.gallery data-height="250" data-width="250"}
+
+
+

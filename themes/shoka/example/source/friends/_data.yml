@@ -1,0 +1,18 @@
+{% links %}
+- site: 優萌初華
+  owner: 霜月琉璃
+  url: https://shoka.lostyu.me
+  desc: 琉璃的医学 & 编程笔记
+  image: https://cn.bing.com/images/search?view=detailV2&ccid=UkVFnEg1&id=195FA2CEB3A2C52F2DDF1F51B0BE462BC7BE8492&thid=OIP.UkVFnEg1kA8wGDvr7LPLVQHaL2&mediaurl=https%3a%2f%2fts1.cn.mm.bing.net%2fth%2fid%2fR-C.5245459c4835900f30183bebecb3cb55%3frik%3dkoS%252bxytGvrBRHw%26riu%3dhttp%253a%252f%252fpic.zsucai.com%252ffiles%252f2013%252f0723%252fsdidjj4.jpg%26ehk%3dWJLRakwfHBZS2aO2sK%252bCdh4ijkXwyYijy5Z2BFUdnz4%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1280&expw=800&q=%e5%9b%be%e7%89%87&simid=608041883455394059&FORM=IRPRST&ck=FB2DEF1D4F088B842E26F31F327E4290&selectedIndex=12
+  color: "#e9546b"
+
+- site: 優萌初華
+  owner: 霜月琉璃
+  url: https://cn.bing.com/images/search?view=detailV2&ccid=xq6cOv82&id=CE4085CB571A6B1826F2BEAF82904D4A6BFD8CC7&thid=OIP.xq6cOv82ubIhJY9qkFd5AgHaEK&mediaurl=https%3a%2f%2fpic3.zhimg.com%2fv2-c6ae9c3aff36b9b221258f6a90577902_r.jpg&exph=2813&expw=5000&q=%e5%9b%be%e7%89%87&simid=608041389539944030&FORM=IRPRST&ck=C62687207C4C4B811B21B0B4F9749C5F&selectedIndex=9
+  image: images/avatar.jpg
+
+- site: 優萌初華
+  url: https://cn.bing.com/images/search?view=detailV2&ccid=%2fS9AReGN&id=9B82F602F3812D130907610102A41743FF3F36C7&thid=OIP._S9AReGNMmBZ2eGcHlSr-gHaEo&mediaurl=https%3a%2f%2fdesk-fd.zol-img.com.cn%2ft_s960x600c5%2fg5%2fM00%2f02%2f03%2fChMkJlbKxo2IT63KACN7OztCegEAALHmwPZIQ0AI3tT786.jpg&exph=600&expw=960&q=%e5%9b%be%e7%89%87&simid=608003009707450754&FORM=IRPRST&ck=45F8B8B7ED80A3BB77821BFBEE67C421&selectedIndex=14
+  desc: 琉璃的医学 & 编程笔记
+  color: "#9d5b8b"
+{% endlinks %}
